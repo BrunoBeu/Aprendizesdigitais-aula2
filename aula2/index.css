@@ -1,0 +1,10 @@
+header{
+    border: 2px Dotted red;
+}
+section{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+   
+    border: 2px dotted blue;
+}
